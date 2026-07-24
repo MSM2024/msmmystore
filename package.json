@@ -1,0 +1,36 @@
+{
+  "name": "msmmystore-final",
+  "version": "3.0.0",
+  "description": "MSM My Store - Portal oficial msmmystore.com con ELIANA IA oficial selva cascada, ZAFIRO, legal completo, ecosistema 10 m\u00f3dulos, PWA",
+  "scripts": {
+    "dev": "next dev -p 3000",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint",
+    "typecheck": "tsc --noEmit"
+  },
+  "dependencies": {
+    "next": "15.1.0",
+    "react": "19.0.0",
+    "react-dom": "19.0.0",
+    "@supabase/supabase-js": "2.45.4",
+    "@supabase/ssr": "0.5.1",
+    "openai": "4.70.0",
+    "zod": "3.23.8",
+    "react-hook-form": "7.54.2",
+    "@hookform/resolvers": "3.9.1",
+    "lucide-react": "0.468.0",
+    "clsx": "2.1.1",
+    "tailwind-merge": "2.5.4"
+  },
+  "devDependencies": {
+    "typescript": "5.6.3",
+    "@types/node": "22.10.5",
+    "@types/react": "19.0.1",
+    "tailwindcss": "3.4.17",
+    "postcss": "8.4.49",
+    "autoprefixer": "10.4.20",
+    "eslint": "9.18.0",
+    "eslint-config-next": "15.1.0"
+  }
+}

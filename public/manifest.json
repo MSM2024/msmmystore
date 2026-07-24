@@ -1,0 +1,21 @@
+{
+  "name": "MSM My Store - Ecosistema MSM",
+  "short_name": "MSM Store",
+  "description": "Ideas, negocios y tecnolog\u00eda que transforman el futuro. ELIANA IA tu gu\u00eda inteligente.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0C3F6A",
+  "theme_color": "#197BD2",
+  "icons": [
+    {
+      "src": "/icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
